@@ -1,0 +1,7 @@
+C:\Users\E272830\Desktop\C# Begineers\CSharpBegineersCode\Debugging\bin\Debug\Debugging.exe.config
+C:\Users\E272830\Desktop\C# Begineers\CSharpBegineersCode\Debugging\bin\Debug\Debugging.exe
+C:\Users\E272830\Desktop\C# Begineers\CSharpBegineersCode\Debugging\bin\Debug\Debugging.pdb
+C:\Users\E272830\Desktop\C# Begineers\CSharpBegineersCode\Debugging\obj\Debug\Debugging.csproj.AssemblyReference.cache
+C:\Users\E272830\Desktop\C# Begineers\CSharpBegineersCode\Debugging\obj\Debug\Debugging.csproj.CoreCompileInputs.cache
+C:\Users\E272830\Desktop\C# Begineers\CSharpBegineersCode\Debugging\obj\Debug\Debugging.exe
+C:\Users\E272830\Desktop\C# Begineers\CSharpBegineersCode\Debugging\obj\Debug\Debugging.pdb

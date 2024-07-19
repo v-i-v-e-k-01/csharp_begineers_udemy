@@ -1,0 +1,14 @@
+C:\Users\E272830\Desktop\PrimAndNonPrimTypes\PrimAndNonPrimTypes\bin\Debug\PrimAndNonPrimTypes.exe.config
+C:\Users\E272830\Desktop\PrimAndNonPrimTypes\PrimAndNonPrimTypes\bin\Debug\PrimAndNonPrimTypes.exe
+C:\Users\E272830\Desktop\PrimAndNonPrimTypes\PrimAndNonPrimTypes\bin\Debug\PrimAndNonPrimTypes.pdb
+C:\Users\E272830\Desktop\PrimAndNonPrimTypes\PrimAndNonPrimTypes\obj\Debug\PrimAndNonPrimTypes.csproj.AssemblyReference.cache
+C:\Users\E272830\Desktop\PrimAndNonPrimTypes\PrimAndNonPrimTypes\obj\Debug\PrimAndNonPrimTypes.csproj.CoreCompileInputs.cache
+C:\Users\E272830\Desktop\PrimAndNonPrimTypes\PrimAndNonPrimTypes\obj\Debug\PrimAndNonPrimTypes.exe
+C:\Users\E272830\Desktop\PrimAndNonPrimTypes\PrimAndNonPrimTypes\obj\Debug\PrimAndNonPrimTypes.pdb
+C:\Users\E272830\Desktop\C# Begineers\CSharpBegineersCode\PrimAndNonPrimTypes\bin\Debug\PrimAndNonPrimTypes.exe.config
+C:\Users\E272830\Desktop\C# Begineers\CSharpBegineersCode\PrimAndNonPrimTypes\bin\Debug\PrimAndNonPrimTypes.exe
+C:\Users\E272830\Desktop\C# Begineers\CSharpBegineersCode\PrimAndNonPrimTypes\bin\Debug\PrimAndNonPrimTypes.pdb
+C:\Users\E272830\Desktop\C# Begineers\CSharpBegineersCode\PrimAndNonPrimTypes\obj\Debug\PrimAndNonPrimTypes.csproj.AssemblyReference.cache
+C:\Users\E272830\Desktop\C# Begineers\CSharpBegineersCode\PrimAndNonPrimTypes\obj\Debug\PrimAndNonPrimTypes.csproj.CoreCompileInputs.cache
+C:\Users\E272830\Desktop\C# Begineers\CSharpBegineersCode\PrimAndNonPrimTypes\obj\Debug\PrimAndNonPrimTypes.exe
+C:\Users\E272830\Desktop\C# Begineers\CSharpBegineersCode\PrimAndNonPrimTypes\obj\Debug\PrimAndNonPrimTypes.pdb

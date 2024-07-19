@@ -1,0 +1,7 @@
+C:\Users\E272830\Desktop\C# Begineers\CSharpBegineersCode\Files\bin\Debug\Files.exe.config
+C:\Users\E272830\Desktop\C# Begineers\CSharpBegineersCode\Files\bin\Debug\Files.exe
+C:\Users\E272830\Desktop\C# Begineers\CSharpBegineersCode\Files\bin\Debug\Files.pdb
+C:\Users\E272830\Desktop\C# Begineers\CSharpBegineersCode\Files\obj\Debug\Files.csproj.AssemblyReference.cache
+C:\Users\E272830\Desktop\C# Begineers\CSharpBegineersCode\Files\obj\Debug\Files.csproj.CoreCompileInputs.cache
+C:\Users\E272830\Desktop\C# Begineers\CSharpBegineersCode\Files\obj\Debug\Files.exe
+C:\Users\E272830\Desktop\C# Begineers\CSharpBegineersCode\Files\obj\Debug\Files.pdb
